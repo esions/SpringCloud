@@ -11,8 +11,4 @@
 
     <artifactId>springcloudeureka-server</artifactId>
 
-    <dependencies>
-
-    </dependencies>
-
 </project>
